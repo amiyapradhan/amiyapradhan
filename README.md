@@ -19,5 +19,4 @@ Highlights:
 How to reach me
 - LinkedIn: [linkedin.com/in/amiyapradhan](https://linkedin.com/in/amiyapradhan)
 - Email: [amiyapradhan@pm.me](mailto:you@amiyapradhan@pm.me)
-- Open to: AI security roles in Sydney / remote, conference talks,
-  and collaborations on AI red teaming research
+
