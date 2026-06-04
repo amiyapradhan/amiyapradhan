@@ -16,7 +16,7 @@ Highlights:
   notes on frameworks, attacks, labs, and case studies
 - [ai-security-fundamentals-cohort-L1](./ai-security-fundamentals-cohort-L1) —
   week-by-week log of the cohort: my notes, my own code, my own diagrams
-- [aisf-capstone-2026](./aisf-capstone-2026), end-to-end AI system
+- [aisf-capstone-2026](./aisf-capstone-2026) — end-to-end AI system
   security assessment (in progress)
 
 How to reach me
