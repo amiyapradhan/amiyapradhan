@@ -21,5 +21,5 @@ Highlights:
 
 How to reach me
 - LinkedIn: [linkedin.com/in/amiyapradhan](https://linkedin.com/in/amiyapradhan)
-- Email: [amiyapradhan@pm.me](mailto:you@amiyapradhan@pm.me)
+- Email: [amiyapradhan@pm.me](mailto:amiyapradhan@pm.me)
 
