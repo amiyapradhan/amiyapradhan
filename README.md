@@ -16,7 +16,7 @@ Highlights:
   notes on frameworks, attacks, labs, and case studies
 - [ai-security-fundamentals-cohort-L1](https://github.com/amiyapradhan/ai-security-fundamentals-cohort-L1) —
   week-by-week log of the cohort: my notes, my own code, my own diagrams
-- [aisf-capstone-2026](https://github.com/amiyapradhan/ai-security-fundamentals-cohort-L1/tree/main/Week-7) — Full AI security assessment report
+- [aisf-capstone-2026](https://github.com/amiyapradhan/aisf-capstone-2026) — Full AI security assessment of an Agentic Assistant
 
 How to reach me
 - LinkedIn: [linkedin.com/in/amiyapradhan](https://linkedin.com/in/amiyapradhan)
